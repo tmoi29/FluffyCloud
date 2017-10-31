@@ -1,0 +1,24 @@
+#Tiffany Moi
+#SoftDev1 pd7
+#HW11 -- Spooky Out Here
+#2017-11-01
+
+h1 {
+    text-align: right;
+    color: #ff9999;
+}
+p {
+    border-style: inset;
+    border-radius: 10px;
+}
+
+ul {
+    list-style-type: square;
+}
+h2 {
+    text-align: center;
+    color: #ccccff;
+}
+h3 {
+    color: #ff9966;
+}
